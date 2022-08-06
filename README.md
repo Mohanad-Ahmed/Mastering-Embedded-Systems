@@ -6,57 +6,61 @@
 
 # **Contents**
 
-## **First Term**
+## **First Term** ![20%](https://progress-bar.dev/20/?title=progress)
 
 - **[Unit 1: Diploma Prerequisites](https://github.com/Mohanad-Ahmed/Mastering-Embedded-Systems)**
-  ![](https://camo.githubusercontent.com/a1b5513d6da82eed8f3dc2b25fa3a9f3db666055555a42cacbdae1aeb535540a/68747470733a2f2f70726f67726573732d6261722e6465762f3130302f)
+  ![100%](https://progress-bar.dev/100/)
 
 - **[Unit 2: C Programming](https://github.com/Mohanad-Ahmed/Mastering-Embedded-Systems/tree/main/Unit2-C%20Programming)**
-  ![](https://camo.githubusercontent.com/2b369c3afde8df569e9846f5b1c432a6ec436a12705831e01a9447a0f7ffd859/68747470733a2f2f70726f67726573732d6261722e6465762f302f)
+  ![0%](https://progress-bar.dev/0/)
 
 - **[Unit 3: Embedded C](https://github.com/Mohanad-Ahmed/Mastering-Embedded-Systems/tree/main/Unit3-Embedded%20C)**
-  ![](https://camo.githubusercontent.com/2b369c3afde8df569e9846f5b1c432a6ec436a12705831e01a9447a0f7ffd859/68747470733a2f2f70726f67726573732d6261722e6465762f302f)
+  ![0%](https://progress-bar.dev/0/)
 
 - **[Unit 4: System Architect](https://github.com/Mohanad-Ahmed/Mastering-Embedded-Systems/tree/main/Unit4-SystemArchitecture)**
-  ![](https://camo.githubusercontent.com/2b369c3afde8df569e9846f5b1c432a6ec436a12705831e01a9447a0f7ffd859/68747470733a2f2f70726f67726573732d6261722e6465762f302f)
+  ![0%](https://progress-bar.dev/0/)
 
 - **[Unit 5: First Term Projects](https://github.com/Mohanad-Ahmed/Mastering-Embedded-Systems/tree/main/Unit5-First%20Term%20Project)**
-  ![](https://camo.githubusercontent.com/2b369c3afde8df569e9846f5b1c432a6ec436a12705831e01a9447a0f7ffd859/68747470733a2f2f70726f67726573732d6261722e6465762f302f)
+  ![0%](https://progress-bar.dev/0/)
 
 ---
 
-## **Second Term**
+## **Second Term** ![%](https://progress-bar.dev/0/?title=progress)
 
 - **[Unit 6: MCU Fundamentals ](https://github.com/Mohanad-Ahmed/Mastering-Embedded-Systems)**
-  ![](https://camo.githubusercontent.com/2b369c3afde8df569e9846f5b1c432a6ec436a12705831e01a9447a0f7ffd859/68747470733a2f2f70726f67726573732d6261722e6465762f302f)
+  ![0%](https://progress-bar.dev/0/)
 
 - **[Unit 7: MCU Essential Peripherals ](https://github.com/Mohanad-Ahmed/Mastering-Embedded-Systems)**
-  ![](https://camo.githubusercontent.com/2b369c3afde8df569e9846f5b1c432a6ec436a12705831e01a9447a0f7ffd859/68747470733a2f2f70726f67726573732d6261722e6465762f302f)
+  ![0%](https://progress-bar.dev/0/)
 
 - **[Unit 8: MCU Interfacing](https://github.com/Mohanad-Ahmed/Mastering-Embedded-Systems)**
-  ![](https://camo.githubusercontent.com/2b369c3afde8df569e9846f5b1c432a6ec436a12705831e01a9447a0f7ffd859/68747470733a2f2f70726f67726573732d6261722e6465762f302f)
-
+  ![0%](https://progress-bar.dev/0/)
 - **[Unit 9: MCU Timers/ADC](https://github.com/Mohanad-Ahmed/Mastering-Embedded-Systems)**
-  ![](https://camo.githubusercontent.com/2b369c3afde8df569e9846f5b1c432a6ec436a12705831e01a9447a0f7ffd859/68747470733a2f2f70726f67726573732d6261722e6465762f302f)
+  ![0%](https://progress-bar.dev/0/)
 
 - **[Unit 10: SW Testing/Validation](https://github.com/Mohanad-Ahmed/Mastering-Embedded-Systems)**
-  ![](https://camo.githubusercontent.com/2b369c3afde8df569e9846f5b1c432a6ec436a12705831e01a9447a0f7ffd859/68747470733a2f2f70726f67726573732d6261722e6465762f302f)
+  ![0%](https://progress-bar.dev/0/)
 
 - **[Unit 11: Apply on Embedded Systems Jobs ](https://github.com/Mohanad-Ahmed/Mastering-Embedded-Systems)**
-  ![](https://camo.githubusercontent.com/2b369c3afde8df569e9846f5b1c432a6ec436a12705831e01a9447a0f7ffd859/68747470733a2f2f70726f67726573732d6261722e6465762f302f)
+  ![0%](https://progress-bar.dev/0/)
 
 ---
 
-## **Third Term**
+## **Third Term** ![%](https://progress-bar.dev/0/?title=Soon)
 
 - **[Unit 12: Advanced Topics](https://github.com/Mohanad-Ahmed/Mastering-Embedded-Systems)**
+  ![0%](https://progress-bar.dev/0/)
 
 - **[Unit 13: Mastering CAN Protocol](https://github.com/Mohanad-Ahmed/Mastering-Embedded-Systems)**
+  ![0%](https://progress-bar.dev/0/)
 
 - **[Unit 14 : ARM & OS](https://github.com/Mohanad-Ahmed/Mastering-Embedded-Systems)**
+  ![0%](https://progress-bar.dev/0/)
 
 - **[Unit 15 : RTOS BASICS ](https://github.com/Mohanad-Ahmed/Mastering-Embedded-Systems)**
+  ![0%](https://progress-bar.dev/0/)
 
 - **[UNIT 16: AUTOSAR Basics ](https://github.com/Mohanad-Ahmed/Mastering-Embedded-Systems)**
+  ![0%](https://progress-bar.dev/0/)
 
 ---
