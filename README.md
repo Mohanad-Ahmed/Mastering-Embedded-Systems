@@ -1,1 +1,1 @@
-# My Progress and the content during studying Embedded Systems track
+# My Progress during studying Embedded Systems track
