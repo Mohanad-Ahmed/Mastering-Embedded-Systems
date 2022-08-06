@@ -1,2 +1,2 @@
-# My Progress during studying Embedded Systems track
-`#RRGGBB`
+# +My Progress during studying Embedded Systems track
+
