@@ -2,7 +2,7 @@
 ----
 # Contents
 ## First Term 
-*[Unit 1: Diploma Prerequisites](https://github.com/Mohanad-Ahmed/Mastering-Embedded-Systems)
+⋅⋅*[Unit 1: Diploma Prerequisites](https://github.com/Mohanad-Ahmed/Mastering-Embedded-Systems)
 ## Second Term
 
 ## Third Term
