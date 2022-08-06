@@ -1,3 +1,1 @@
-# Mastering-Embedded-Systems
-Embedded System Online Diploma with Eng.Keroles Shenouda
-# Mohanad
+# **My Progress and the roadmap for studing the diploma:**
