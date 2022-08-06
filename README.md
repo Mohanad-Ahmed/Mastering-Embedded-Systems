@@ -1,4 +1,4 @@
-# **My Progress during studying Embedded Systems track**
+# **My Progress during studying Embedded Systems track**{#home}
 
 ![](https://static.wixstatic.com/media/599af8_e2f52bdfffbc459b99c6ecea8c93e074~mv2.png/v1/fill/w_1000,h_524,al_c,usm_0.66_1.00_0.01/599af8_e2f52bdfffbc459b99c6ecea8c93e074~mv2.png)
 
@@ -27,40 +27,41 @@
 
 ## **Second Term** ![%](https://progress-bar.dev/0/?title=progress)
 
-- **[Unit 6: MCU Fundamentals ](https://github.com/Mohanad-Ahmed/Mastering-Embedded-Systems)**
+- **[Unit 6: MCU Fundamentals ](#home)**
   ![0%](https://progress-bar.dev/0/)
 
-- **[Unit 7: MCU Essential Peripherals ](https://github.com/Mohanad-Ahmed/Mastering-Embedded-Systems)**
+- **[Unit 7: MCU Essential Peripherals ](#home)**
   ![0%](https://progress-bar.dev/0/)
 
-- **[Unit 8: MCU Interfacing](https://github.com/Mohanad-Ahmed/Mastering-Embedded-Systems)**
-  ![0%](https://progress-bar.dev/0/)
-- **[Unit 9: MCU Timers/ADC](https://github.com/Mohanad-Ahmed/Mastering-Embedded-Systems)**
+- **[Unit 8: MCU Interfacing](#home)**
   ![0%](https://progress-bar.dev/0/)
 
-- **[Unit 10: SW Testing/Validation](https://github.com/Mohanad-Ahmed/Mastering-Embedded-Systems)**
+- **[Unit 9: MCU Timers/ADC](#home)**
   ![0%](https://progress-bar.dev/0/)
 
-- **[Unit 11: Apply on Embedded Systems Jobs ](https://github.com/Mohanad-Ahmed/Mastering-Embedded-Systems)**
+- **[Unit 10: SW Testing/Validation](#home)**
+  ![0%](https://progress-bar.dev/0/)
+
+- **[Unit 11: Apply on Embedded Systems Jobs ](#home)**
   ![0%](https://progress-bar.dev/0/)
 
 ---
 
 ## **Third Term** ![%](https://progress-bar.dev/0/?title=Soon)
 
-- **[Unit 12: Advanced Topics](https://github.com/Mohanad-Ahmed/Mastering-Embedded-Systems)**
+- **[Unit 12: Advanced Topics](#home)**
   ![0%](https://progress-bar.dev/0/)
 
-- **[Unit 13: Mastering CAN Protocol](https://github.com/Mohanad-Ahmed/Mastering-Embedded-Systems)**
+- **[Unit 13: Mastering CAN Protocol](#home)**
   ![0%](https://progress-bar.dev/0/)
 
-- **[Unit 14 : ARM & OS](https://github.com/Mohanad-Ahmed/Mastering-Embedded-Systems)**
+- **[Unit 14 : ARM & OS](#home)**
   ![0%](https://progress-bar.dev/0/)
 
-- **[Unit 15 : RTOS BASICS ](https://github.com/Mohanad-Ahmed/Mastering-Embedded-Systems)**
+- **[Unit 15 : RTOS BASICS ](#home)**
   ![0%](https://progress-bar.dev/0/)
 
-- **[UNIT 16: AUTOSAR Basics ](https://github.com/Mohanad-Ahmed/Mastering-Embedded-Systems)**
+- **[UNIT 16: AUTOSAR Basics ](#home)**
   ![0%](https://progress-bar.dev/0/)
 
 ---
